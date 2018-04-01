@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mycleung.github.io/post/hello-world/</loc>
+    <loc>http://mycleung.github.io/post/hello-world/</loc>
     <lastmod>2018-03-31T23:38:36+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycleung.github.io/categories/</loc>
+    <loc>http://mycleung.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mycleung.github.io/post/</loc>
+    <loc>http://mycleung.github.io/post/</loc>
     <lastmod>2018-03-31T23:38:36+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mycleung.github.io/tags/</loc>
+    <loc>http://mycleung.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mycleung.github.io/</loc>
+    <loc>http://mycleung.github.io/</loc>
     <lastmod>2018-03-31T23:38:36+01:00</lastmod>
     <priority>0</priority>
   </url>
