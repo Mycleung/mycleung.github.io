@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mycleung</title>
-    <link>http://mycleung.github.io/</link>
+    <link>https://mycleung.github.io/</link>
     <description>Recent content on mycleung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 31 Mar 2018 23:38:36 +0100</lastBuildDate>
     
-	<atom:link href="http://mycleung.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mycleung.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello, World!</title>
-      <link>http://mycleung.github.io/post/hello-world/</link>
+      <link>https://mycleung.github.io/post/hello-world/</link>
       <pubDate>Sat, 31 Mar 2018 23:38:36 +0100</pubDate>
       
-      <guid>http://mycleung.github.io/post/hello-world/</guid>
+      <guid>https://mycleung.github.io/post/hello-world/</guid>
       <description>Hello, World! Hi! My name&amp;rsquo;s Michael and this is my blog.</description>
     </item>
     
