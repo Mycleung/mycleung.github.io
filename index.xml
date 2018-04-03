@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mycleung</title>
-    <link>http://mycleung.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on mycleung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 31 Mar 2018 23:38:36 +0100</lastBuildDate>
     
-	<atom:link href="http://mycleung.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello, World!</title>
-      <link>http://mycleung.github.io/post/hello-world/</link>
+      <link>http://localhost:1313/post/hello-world/</link>
       <pubDate>Sat, 31 Mar 2018 23:38:36 +0100</pubDate>
       
-      <guid>http://mycleung.github.io/post/hello-world/</guid>
+      <guid>http://localhost:1313/post/hello-world/</guid>
       <description>&amp;ldquo;Hey, while you&amp;rsquo;re working on that side project, maybe you should blog about it?&amp;rdquo;
 Fateful words spoken to me while I was describing a little idea, working title &amp;lsquo;matchymatchy&amp;rsquo;, to a friend at work&amp;hellip; and now here we are! I&amp;rsquo;m planning on using this blog as a dev-diary of sorts to help keep a record of my experience building out this project and the various decisions, big and small, I make along the way.</description>
     </item>
